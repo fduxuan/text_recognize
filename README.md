@@ -105,7 +105,7 @@
 
 ```
 
-![car](/Users/fang/Desktop/text_recognize/ppt/car3.jpg)
+![car](ppt/car3.jpg)
 
 
 
