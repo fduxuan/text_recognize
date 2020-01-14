@@ -89,7 +89,7 @@
 
 
 
-![car](/Users/fang/Desktop/text_recognize/ppt/car2.jpg)
+![car](ppt/car2.jpg)
 
 ![car](/Users/fang/Desktop/text_recognize/ppt/car.jpg)
 
