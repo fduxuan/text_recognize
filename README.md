@@ -91,7 +91,7 @@
 
 ![car](ppt/car2.jpg)
 
-![car](/Users/fang/Desktop/text_recognize/ppt/car.jpg)
+![car](ppt/car.jpg)
 
 
 
